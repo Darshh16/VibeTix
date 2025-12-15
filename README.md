@@ -71,18 +71,9 @@ A modern, full-featured Progressive Web App (PWA) for discovering and booking ti
 - **Razorpay SDK**: Payment gateway integration
 - **Razorpay Webhooks**: Real-time payment status updates
 - **QR Code Generator**: Ticket validation system
-
-### DevOps & Hosting
-- **Vercel / Netlify**: Frontend deployment
-- **AWS / Heroku**: Backend hosting
-- **MongoDB Atlas / AWS RDS**: Cloud database
-- **Cloudinary**: Image storage and optimization
-- **GitHub Actions**: CI/CD pipeline
-
+  
 ## 📋 Prerequisites
 
-- Node.js 16.x or higher
-- npm or yarn
 - MongoDB or PostgreSQL database
 - Razorpay account ([Sign up here](https://razorpay.com/))
 - Email service (Gmail SMTP or SendGrid)
@@ -91,25 +82,10 @@ A modern, full-featured Progressive Web App (PWA) for discovering and booking ti
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/eventhub-pwa.git
-cd eventhub-pwa
+git clone https://github.com/Darshh16/VibeTix
 ```
 
-### 2. Install dependencies
-
-**Frontend:**
-```bash
-cd client
-npm install
-```
-
-**Backend:**
-```bash
-cd server
-npm install
-```
-
-### 3. Environment Configuration
+### 2. Environment Configuration
 
 Create `.env` files in both client and server directories:
 
@@ -143,7 +119,7 @@ CLOUDINARY_API_KEY=your_api_key
 CLOUDINARY_API_SECRET=your_api_secret
 ```
 
-### 4. Run the Application
+### 3. Run the Application
 
 **Development Mode:**
 
