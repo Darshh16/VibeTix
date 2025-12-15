@@ -1,4 +1,4 @@
-# EventHub - Event Booking Progressive Web App 🎫
+# VibeTix - Event Booking Progressive Web App 🎫
 
 A modern, full-featured Progressive Web App (PWA) for discovering and booking tickets to events. Built with seamless payment integration, user authentication, and offline capabilities for the ultimate event booking experience.
 
